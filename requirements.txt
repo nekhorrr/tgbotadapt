@@ -1,8 +1,5 @@
-python-telegram-bot==20.9
+python-telegram-bot==22.3
 gspread
 google-auth
 pytz
 apscheduler
-
-# Тест: если видишь эту ошибку — файл читается
-invalid-package-for-test==1.0
